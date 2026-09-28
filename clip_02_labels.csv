@@ -1,0 +1,14 @@
+start_time,end_time,action,object
+00:00,00:04,takes dough and places on shelf,pizza dough
+00:04,00:05,sprinkles flour,flour over dough
+00:05,00:08,pats down dough,dough (flattening)
+00:08,00:14,lifts and rotates dough,dough (one hand rotates, other steadies)
+00:15,00:18,tosses and spins dough in air,dough
+00:18,00:23,places dough down and adds sauce,pizza sauce over dough
+00:23,00:27,spreads sauce with spoon,sauce and spoon
+00:27,00:33,takes and spreads grated cheese,grated cheese (leftmost box)
+00:34,00:41,takes and spreads pepperoni,pepperoni (second box from left)
+00:41,00:50,lifts pizza with peel and slides into oven,pizza peel and oven
+00:50,01:00,opens empty pizza box,pizza box (on left shelf)
+01:00,01:26,rotates and lifts pizza with small peel to check base,pizza inside oven
+01:26,01:36,removes pizza from oven and places in box,pizza and pizza box
